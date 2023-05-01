@@ -16,7 +16,7 @@ function Navbar() {
         <img src={Logo} Alt=""/>
         <div className="hiddenLinks">
           <Link to="/"> Home </Link>
-          <Link to="/menu"> Menu </Link> <a href='./klj'></a>
+          {/* <Link to="/menu"> Menu </Link> <a href='./klj'></a> */}
           <Link to="/about"> About </Link>
           <Link to="/contact"> Contact </Link>
         </div>
