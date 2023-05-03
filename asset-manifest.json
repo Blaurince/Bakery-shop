@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0979f3c3.css",
-    "main.js": "/static/js/main.cb47a121.js",
+    "main.js": "/static/js/main.0bd20204.js",
     "static/media/creolepatty.jpg": "/static/media/creolepatty.8188d705ec28a295e821.jpg",
     "static/media/bakeryLeft.jpg": "/static/media/bakeryLeft.97eedb2a7daf5f54b0b1.jpg",
     "static/media/bakeryright.jpg": "/static/media/bakeryright.cdb4c4275d4a0cd06553.jpg",
@@ -14,10 +14,10 @@
     "static/media/bakeryLogo.png": "/static/media/bakeryLogo.73b13dd8b6726fdc0141.png",
     "index.html": "/index.html",
     "main.0979f3c3.css.map": "/static/css/main.0979f3c3.css.map",
-    "main.cb47a121.js.map": "/static/js/main.cb47a121.js.map"
+    "main.0bd20204.js.map": "/static/js/main.0bd20204.js.map"
   },
   "entrypoints": [
     "static/css/main.0979f3c3.css",
-    "static/js/main.cb47a121.js"
+    "static/js/main.0bd20204.js"
   ]
 }
