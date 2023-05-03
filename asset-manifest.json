@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.0979f3c3.css",
-    "main.js": "/static/js/main.0bd20204.js",
-    "static/media/creolepatty.jpg": "/static/media/creolepatty.8188d705ec28a295e821.jpg",
-    "static/media/bakeryLeft.jpg": "/static/media/bakeryLeft.97eedb2a7daf5f54b0b1.jpg",
-    "static/media/bakeryright.jpg": "/static/media/bakeryright.cdb4c4275d4a0cd06553.jpg",
-    "static/media/bakery.jpg": "/static/media/bakery.67dc063f8b446abea071.jpg",
-    "static/media/twistedpatty.jpg": "/static/media/twistedpatty.2c42d5bf9ee7d6c91417.jpg",
-    "static/media/heartshapeberry.jpg": "/static/media/heartshapeberry.e00fb65698a45f22a61d.jpg",
-    "static/media/pineappleUpdown.jpg": "/static/media/pineappleUpdown.74434b171be3fa6ecec4.jpg",
-    "static/media/fajitapatty.jpg": "/static/media/fajitapatty.26718d4ba3f94b09560d.jpg",
-    "static/media/flowerpastry.jpg": "/static/media/flowerpastry.fdbb576e99207836ea50.jpg",
-    "static/media/bakeryLogo.png": "/static/media/bakeryLogo.73b13dd8b6726fdc0141.png",
-    "index.html": "/index.html",
-    "main.0979f3c3.css.map": "/static/css/main.0979f3c3.css.map",
-    "main.0bd20204.js.map": "/static/js/main.0bd20204.js.map"
+    "main.css": "/Bakery-shop/static/css/main.0979f3c3.css",
+    "main.js": "/Bakery-shop/static/js/main.0a89d19a.js",
+    "static/media/creolepatty.jpg": "/Bakery-shop/static/media/creolepatty.8188d705ec28a295e821.jpg",
+    "static/media/bakeryLeft.jpg": "/Bakery-shop/static/media/bakeryLeft.97eedb2a7daf5f54b0b1.jpg",
+    "static/media/bakeryright.jpg": "/Bakery-shop/static/media/bakeryright.cdb4c4275d4a0cd06553.jpg",
+    "static/media/bakery.jpg": "/Bakery-shop/static/media/bakery.67dc063f8b446abea071.jpg",
+    "static/media/twistedpatty.jpg": "/Bakery-shop/static/media/twistedpatty.2c42d5bf9ee7d6c91417.jpg",
+    "static/media/heartshapeberry.jpg": "/Bakery-shop/static/media/heartshapeberry.e00fb65698a45f22a61d.jpg",
+    "static/media/pineappleUpdown.jpg": "/Bakery-shop/static/media/pineappleUpdown.74434b171be3fa6ecec4.jpg",
+    "static/media/fajitapatty.jpg": "/Bakery-shop/static/media/fajitapatty.26718d4ba3f94b09560d.jpg",
+    "static/media/flowerpastry.jpg": "/Bakery-shop/static/media/flowerpastry.fdbb576e99207836ea50.jpg",
+    "static/media/bakeryLogo.png": "/Bakery-shop/static/media/bakeryLogo.73b13dd8b6726fdc0141.png",
+    "index.html": "/Bakery-shop/index.html",
+    "main.0979f3c3.css.map": "/Bakery-shop/static/css/main.0979f3c3.css.map",
+    "main.0a89d19a.js.map": "/Bakery-shop/static/js/main.0a89d19a.js.map"
   },
   "entrypoints": [
     "static/css/main.0979f3c3.css",
-    "static/js/main.0bd20204.js"
+    "static/js/main.0a89d19a.js"
   ]
 }
